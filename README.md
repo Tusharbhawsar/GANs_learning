@@ -1,2 +1,2 @@
 # GANs_learning
-Generating fake or Realistic images
+Generating fake or using sample images....
